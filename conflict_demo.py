@@ -1,2 +1,2 @@
-GREETING = "Hello"
+GREETING = "你好"
 print(GREETING)
