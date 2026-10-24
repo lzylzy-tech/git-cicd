@@ -1,2 +1,2 @@
-GREETING = "Hello"
+GREETING = "Hi there"
 print(GREETING)
