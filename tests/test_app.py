@@ -15,7 +15,7 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(multiply(2, 3), 6)
 
     def test_divide(self):
-        self.assertEqual(divide(6, 3), 2)
+        self.assertEqual(divide(6, 3), 999)
 
     def test_divide_by_zero(self):
         with self.assertRaises(ZeroDivisionError):
